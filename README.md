@@ -3,15 +3,15 @@ Welcome to the wiki where you'll find all the information that you'll need to us
 
 == OpenBarbell Manuals ==
 
-<p>Dive right in to the <a href="#targetname">OpenBarbell V2</a> Manual </p>
+<p>Dive right in to the <a href="#OpenBarbell V2">OpenBarbell V2</a> Manual </p>
 
 <span class="plainlinks">[{{fullurl:V2.0}} <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2016/10/IMG_7664.jpg" width="600" height="360"></p>]</span>
 
-<p><a href="#targetname">OpenBarbell V1</a> Manual </p>
+<p><a href="#OpenBarbell V1">OpenBarbell V1</a> Manual </p>
 
 <span class="plainlinks">[{{fullurl:V1.0}} <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2016/02/20160201_183650.jpg" width="600" height="338"></p>]</span>
 
-<p><a href="#targetname">OpenBarbell V0.25</a> Manual </p>
+<p><a href="#OpenBarbell V0.25">OpenBarbell V0.25</a> Manual </p>
 
 <span class="plainlinks">[{{fullurl:V0.25}} <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2015/08/email_image.jpg" width="600" height="291"></p>]</span>
 
