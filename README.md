@@ -3,15 +3,15 @@ Welcome to the wiki where you'll find all the information that you'll need to us
 
 == OpenBarbell Manuals ==
 
-<p>Dive right in to the [[V2.0|OpenBarbell V2.0 Manual]] </p>
+<p>Dive right in to the <a href="#targetname">OpenBarbell V2</a> Manual </p>
 
 <span class="plainlinks">[{{fullurl:V2.0}} <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2016/10/IMG_7664.jpg" width="600" height="360"></p>]</span>
 
-<p>[[V1.0|OpenBarbell V1.0 Manual]] </p>
+<p><a href="#targetname">OpenBarbell V1</a> Manual </p>
 
 <span class="plainlinks">[{{fullurl:V1.0}} <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2016/02/20160201_183650.jpg" width="600" height="338"></p>]</span>
 
-<p>[[V0.25|OpenBarbell V0.25 Manual]] </p>
+<p><a href="#targetname">OpenBarbell V0.25</a> Manual </p>
 
 <span class="plainlinks">[{{fullurl:V0.25}} <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2015/08/email_image.jpg" width="600" height="291"></p>]</span>
 
@@ -19,7 +19,7 @@ Welcome to the wiki where you'll find all the information that you'll need to us
 
 Consult the [//meta.wikimedia.org/wiki/Help:Contents User's Guide] for information on using the wiki software.
 
-<h1> OpenBarbell V2 </h1>
+<h1> OpenBarbell V2 </h1><a name="OpenBarbell V2"></a>
 <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2016/10/IMG_7664.jpg" width="960" height="540"></p>
 
 <h1> Under Construction </h1>
@@ -1028,7 +1028,7 @@ MORE COMING SOON.
 We're working hard on this - Come back soon!
 
 
-<h1> OpenBarbell V1 </h1>
+<h1> OpenBarbell V1 </h1><a name="OpenBarbell V1"></a>
 
 <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2016/02/20160201_183650.jpg" width="960" height="540"></p>
 
@@ -2041,7 +2041,7 @@ We're working hard on this - Come back soon!
 
 
 
-<h1> OpenBarbell V0.25 </h1>
+<h1> OpenBarbell V0.25 </h1><a name="OpenBarbell V0.25"></a>
 
 <p style="text-align: center;"><img src="http://squatsandscience.com/wp-content/uploads/2015/08/email_image.jpg" width="600" height="291"> </p>
 
